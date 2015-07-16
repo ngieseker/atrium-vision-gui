@@ -1,0 +1,6 @@
+package crew;
+struct report {
+	string name;
+	string message;	
+}
+
